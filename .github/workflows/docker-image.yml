@@ -1,4 +1,4 @@
-name: Docker Image CI for danwanderson/docker-lldp
+name: Docker Image CI
 
 on:
   push:
