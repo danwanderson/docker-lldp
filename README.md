@@ -13,4 +13,4 @@ option to properly access host information data.
 
 ### Usage: ###
 
-	docker run -d --restart always --net=host --uts=host --privileged --name lldpd jdenoy/docker-lldp
+	docker run -d --restart always --net=host --uts=host --privileged --name lldpd danwanderson/docker-lldp
